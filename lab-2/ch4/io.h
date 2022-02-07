@@ -1,0 +1,1 @@
+void fb_write_cell(unsigned int i, char c, unsigned char fg, unsigned char bg);
